@@ -13,4 +13,5 @@ This is a template repository for running [Ghost](https://ghost.org) on Render.
 
 ## Deployment
 
+
 See https://render.com/docs/deploy-ghost.
